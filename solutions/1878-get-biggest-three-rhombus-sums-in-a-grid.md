@@ -3,7 +3,7 @@
 **题号**: 1878  
 **难度**: Medium  
 **日期**: 2026-03-16  
-**标签**: #Array #Math #Sorting #Heap #Matrix #Prefix Sum
+**标签**: #Array #Math #Sorting #Heap (Priority Queue) #Matrix #Prefix Sum
 
 ---
 
