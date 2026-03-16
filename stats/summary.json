@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-03-16T15:32:28.825Z",
+  "total": 3,
+  "difficulty": {
+    "easy": 1,
+    "medium": 1,
+    "hard": 1,
+    "unknown": 0
+  },
+  "tags": {
+    "数组": 2,
+    "哈希表": 1,
+    "链表": 1,
+    "数学": 1,
+    "二分查找": 1,
+    "分治": 1
+  },
+  "streak": {
+    "current": 3,
+    "max": 3
+  },
+  "firstProblem": "2026-03-14",
+  "lastProblem": "2026-03-16",
+  "topTags": [
+    {
+      "tag": "数组",
+      "count": 2
+    },
+    {
+      "tag": "哈希表",
+      "count": 1
+    },
+    {
+      "tag": "链表",
+      "count": 1
+    },
+    {
+      "tag": "数学",
+      "count": 1
+    },
+    {
+      "tag": "二分查找",
+      "count": 1
+    },
+    {
+      "tag": "分治",
+      "count": 1
+    }
+  ]
+}
